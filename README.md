@@ -38,7 +38,7 @@ English | Mandarin | Vietnamese
 
 ## 📊 Projects
 - **[Sephora Foundation Product Analysis (Senior Seminar)](https://github.com/ashleydoan/Sephora-Foundation-Product-Analysis/tree/main)** – Scraped and cleaned Sephora product data to focus on foundations. Built a linear regression model to identify brand and reviews as price drivers, applied K-means clustering to group products into premium vs. affordable, and trained a Random Forest classifier achieving **96% accuracy** in predicting popularity.
-- **Web Scraping & Analysis of Best Buy Reviews (Course Project)** – Scraped 2,000 Xbox Series X reviews from Best Buy using Selenium and Python, transforming them into a structured dataset. Conducted sentiment and regression analysis to examine customer feedback, revealing a surprising lack of correlation between review length and helpfulness votes.
+- **[Web Scraping & Analysis of Best Buy Reviews (Course Project)](https://github.com/ashleydoan/Web-Scraping-Analysis-of-Best-Buy-Reviews)** – Scraped 2,000 Xbox Series X reviews from Best Buy using Selenium and Python, transforming them into a structured dataset. Conducted sentiment and regression analysis to examine customer feedback, revealing a surprising lack of correlation between review length and helpfulness votes.
 
 
 ---
